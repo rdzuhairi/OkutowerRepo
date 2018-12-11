@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{84D88E0A-7208-5914-E259-89601D030870}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/NewEnemy.cs">
+    <Files>
+      <File FileName="Assets/Script/NewEnemy.cs" Line="46" Column="10" />
+      <File FileName="Assets/Script/towerScript.cs" Line="21" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
