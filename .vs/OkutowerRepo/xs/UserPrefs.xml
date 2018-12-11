@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/NewEnemy.cs">
     <Files>
-      <File FileName="Assets/Script/NewEnemy.cs" Line="46" Column="10" />
+      <File FileName="Assets/Script/NewEnemy.cs" Line="44" Column="1" />
       <File FileName="Assets/Script/towerScript.cs" Line="21" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>

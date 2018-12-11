@@ -15,7 +15,7 @@ public class NewEnemy : MonoBehaviour {
 	void Start () {
         //find the cylinder and move towards that
         tower = GameObject.Find("tower");
-        terrain = GameObject.Find("terrain");
+        terrain = GameObject.Find("Terrain");
 	}
 	
 	// Update is called once per frame
@@ -41,8 +41,8 @@ public class NewEnemy : MonoBehaviour {
             //    this.transform.Translate(0, (floatValue - hit.distance), 0);
             //}
 
-            var terPos = terrain.transform.position;
-            this.transform.position = new Vector3(this.transform.position.x, terPos.y + floatValue, this.transform.position.z);
+            //var terPos = terrain.transform.position;
+            //this.transform.position = new Vector3(this.transform.position.x, terPos.y + floatValue, this.transform.position.z);
         }
 	}
 
